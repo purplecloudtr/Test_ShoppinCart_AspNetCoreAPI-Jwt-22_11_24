@@ -1,0 +1,6 @@
+@AspNetCoreAPI_Jwt_Bearer_HostAddress = http://localhost:5269
+
+GET {{AspNetCoreAPI_Jwt_Bearer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
